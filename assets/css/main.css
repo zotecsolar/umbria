@@ -3410,7 +3410,8 @@ input, select, textarea {
 				text-align: center;
 				width: 2.25em;
 			}
-
+			
+			#banner .logo img { border-radius: 100%; border: solid 2px rgba(255, 255, 255, 0.125); cursor: default; display: inline-block; width: 2.25em; height: 2.25em; object-fit: cover; /* Ensures the image fits within the specified dimensions */ }
 		#banner h2 {
 			-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, -moz-filter 0.25s ease;
 			-webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, -webkit-filter 0.25s ease;
