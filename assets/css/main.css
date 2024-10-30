@@ -3475,9 +3475,9 @@ input, select, textarea {
 			#banner {
 			  padding: 7em 0 8.25em 0;
 			  background-color: #2e3141;
-			  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://www.zotecsolar.com/wp-content/uploads/2024/10/fotovoltaico_umbria_home.jpg");
+			  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("https://www.zotecsolar.com/wp-content/uploads/2024/10/fotovoltaico_umbria_home.jpg");
 			  background-size: cover;
-			  background-position: center, center;
+			  background-position: center, top;
 			  margin-bottom: -6.5em;
 			}
 		  }
